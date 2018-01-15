@@ -1,0 +1,8 @@
+C:\Users\dilee\source\repos\Test\Test\bin\Debug\netstandard1.4\BusinessLogic.deps.json
+C:\Users\dilee\source\repos\Test\Test\bin\Debug\netstandard1.4\BusinessLogic.dll
+C:\Users\dilee\source\repos\Test\Test\bin\Debug\netstandard1.4\BusinessLogic.pdb
+C:\Users\dilee\source\repos\Test\Test\obj\Debug\netstandard1.4\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\dilee\source\repos\Test\Test\obj\Debug\netstandard1.4\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\dilee\source\repos\Test\Test\obj\Debug\netstandard1.4\BusinessLogic.AssemblyInfo.cs
+C:\Users\dilee\source\repos\Test\Test\obj\Debug\netstandard1.4\BusinessLogic.dll
+C:\Users\dilee\source\repos\Test\Test\obj\Debug\netstandard1.4\BusinessLogic.pdb
